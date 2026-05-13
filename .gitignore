@@ -1,0 +1,30 @@
+# 下载的PDF论文（有版权，不提交）
+articles/
+
+# 处理过的xls文件
+processed/
+
+# 待处理的xls文件
+unprocessed/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志
+*.log
+
+# 环境配置
+.env
